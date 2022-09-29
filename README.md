@@ -1,2 +1,3 @@
-# antispambot-cf-worker
-A CloudFlare Worker to return antispambot email.
+# AntispamBot CloudFlare Worker
+
+A CloudFlare Worker to return an email in the WordPress antispambot format.
